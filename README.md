@@ -4,7 +4,7 @@
 **Section:** TW35  
 
 ## Live Application URL
-* Hosted Version: [(http://rkishan.thsite.top/)]
+* Hosted Version: []
 
 
 # Tasks for Today Management System (TSA2)
