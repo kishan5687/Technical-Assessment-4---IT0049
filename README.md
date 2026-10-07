@@ -1,4 +1,4 @@
-# POS Application Upgrade - TFA3
+# FULL CRUD AND AUTHENTICATION
 
 **Student Name:** QUEJADA, RAINA KISHAN S.  
 **Section:** TW35  
